@@ -1,8 +1,21 @@
 # Optimization Trap
 
-The Optimization Trap is a failure mode where systems optimized for narrow
-metrics or proxies erode broader human meaning, trust, or adaptability over
-time.
+Part of the Reality Drift framework (2023–2026) by A. Jacobs.
 
-The term describes how local efficiency gains can produce long-term semantic,
-cultural, or cognitive degradation when incentives replace judgment.
+## Canonical Definition
+
+The Optimization Trap is a structural condition in which efforts to maximize efficiency and measurable performance gradually erode context, meaning, and long-term resilience.
+
+Systems increasingly optimize for indicators such as engagement, productivity, or KPIs. As these metrics become targets, they begin to substitute for the broader purposes they were meant to represent.
+
+## Relationship to Reality Drift
+
+Within the Reality Drift framework, the Optimization Trap describes how systems refine internal indicators faster than they are corrected by real-world consequence.
+
+Performance metrics continue to improve while alignment with underlying goals weakens, allowing systems to remain operational while drifting from their original purpose.
+
+## Main Framework Repository
+
+Full framework library:
+
+[Reality Drift Library on GitHub](https://github.com/therealitydrift/reality-drift-library)
